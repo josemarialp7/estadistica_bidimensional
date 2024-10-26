@@ -28,4 +28,5 @@ Asegúrate de tener **Python 3.x** instalado en tu sistema.
    
    ```bash
    python estadistica_bidimensional.py
-
+   ```
+asd
