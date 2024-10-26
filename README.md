@@ -4,20 +4,20 @@ Este repositorio contiene un programa en Python diseñado para realizar análisi
 
 ## Características
 
-- **Análisis exhaustivo**: Genera una tabla completa de estadística bidimensional con los datos proporcionados.
+- **Análisis exhaustivo**: Genera una tabla completa de estadística bidimensional con los datos proporcionados y su correspondiente grafica.
 - **Cálculos detallados**: Muestra todas las cuentas y resultados intermedios importantes, como el **coeficiente de variación**, el **coeficiente de correlación**, la **covarianza**, entre otros.
 - **Fórmula de la recta de regresión**: Te permite calcular y visualizar la ecuación de la recta si los datos tienen sentido para la regresión.
 - **Interfaz interactiva**: Al final del análisis, el programa pregunta si deseas realizar la regresión y proporciona la fórmula resultante si la confirmas.
 
 ## Instalación
 
-Asegúrate de tener **Python 3.x** instalado en tu sistema.
+Asegúrate de tener **Python 3** instalado en tu sistema.
 
 1. Clona este repositorio en tu máquina local:
 
    ```bash
-   git clone https://github.com/tu-usuario/nombre-del-repositorio.git
-   cd nombre-del-repositorio
+   git clone https://github.com/josemarialp7/estadistica_bidimensional.git
+   cd estadistica_bidimensional
 2. Instala las dependencias necesarias desde requirements.txt ejecutando:
    
    ```bash
