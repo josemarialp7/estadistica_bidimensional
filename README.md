@@ -29,4 +29,6 @@ Asegúrate de tener **Python 3.x** instalado en tu sistema.
    ```bash
    python estadistica_bidimensional.py
    ```
-asd
+   Sigue las instrucciones en pantalla para ingresar tus datos. Al finalizar, el programa te mostrará la tabla de análisis completo, junto con los resultados de cada cuenta estadística realizada, como el coeficiente de variación, coeficiente de correlación y otros valores relevantes. Si decides realizar la regresión, el programa generará además la ecuación de la 
+   recta con base en tus datos.
+
